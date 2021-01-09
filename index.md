@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Homepage!
+
+My name is Michael Ainsworth. I am a graduate student currently living in Baltimore, Maryland, where I attend Johns Hopkins University. I am studying Biomedical Engineering with a focus in Biomedical Data Science.
+
+Feel free to navigate this page to learn more about me, including my research, projects, industry experience, and interests!
+
+You can reach me at: michael.j.ainsworth@gmail.com
+
+
 
 You can use the [editor on GitHub](https://github.com/Michael-Ainsworth/Michael-Ainsworth.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
