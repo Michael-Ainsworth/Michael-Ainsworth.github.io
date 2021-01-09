@@ -1,6 +1,10 @@
+Home{:style="margin-right: 20px;"} | About Me{:style="margin-right: 20px;margin-left: 20px;"} | Research{:style="margin-right: 20px;margin-left: 20px;"} | Industry Experience{:style="margin-right: 20px;margin-left: 20px"} | Projects{:style="margin-right: 20px;margin-left: 20px"} | Interests{:style="margin-left: 20px"}
+
 ## Welcome to my Homepage!
 
-My name is Michael Ainsworth. I am a graduate student currently living in Baltimore, Maryland, where I attend Johns Hopkins University. I am studying Biomedical Engineering with a focus in Biomedical Data Science.
+My name is Michael Ainsworth.
+
+I am a graduate student currently living in Baltimore, Maryland, where I attend Johns Hopkins University. I am studying Biomedical Engineering with a focus in Biomedical Data Science.
 
 Feel free to navigate this page to learn more about me, including my research, projects, industry experience, and interests!
 
