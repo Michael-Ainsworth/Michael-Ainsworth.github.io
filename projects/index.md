@@ -12,5 +12,4 @@
 
 ___
 
-This page includes my prior and current research!
-
+This page includes my projects!
