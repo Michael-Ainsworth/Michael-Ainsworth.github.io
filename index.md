@@ -1,7 +1,8 @@
----
-layout: page
-title: Home
----
+[**Home**](index.md){:style="margin-right: 20px;"}
+|
+[**About Me**](aboutMe/index.md){:style="margin-right: 20px;margin-left: 20px;"}
+
+___
 
 ## Welcome to my Homepage!
 
