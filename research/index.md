@@ -6,8 +6,5 @@
 
 ___
 
-## About Me
+This page includes my prior and current research!
 
-Hi! This tab should give some brief info about my background.
-
-I grew up White Plains, New York, where I lived until attending college. 
