@@ -1,4 +1,7 @@
-Home{:style="margin-right: 20px;"} | About Me{:style="margin-right: 20px;margin-left: 20px;"} | Research{:style="margin-right: 20px;margin-left: 20px;"} | Industry Experience{:style="margin-right: 20px;margin-left: 20px"} | Projects{:style="margin-right: 20px;margin-left: 20px"} | Interests{:style="margin-left: 20px"}
+---
+layout: page
+title: About Me
+---
 
 ## About Me
 
