@@ -1,10 +1,10 @@
 [**Home**](http://michaelainsworth.me){:style="margin-right: 10px;"}
 |
-[**CV**](http://michaelainsworth.me/aboutMe){:style="margin-right: 10px;margin-left: 10px;"}
+**About Me**
 |
 [**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 10px;margin-left: 10px;"}
 |
-**Projects**
+[**Projects**](http://michaelainsworth.me/projects){:style="margin-right: 10px;margin-left: 10px;"}
 |
 [**Research**](http://michaelainsworth.me/research){:style="margin-right: 10px;margin-left: 10px;"}
 |
@@ -12,4 +12,8 @@
 
 ___
 
-This page includes my projects!
+## About Me
+
+Hi! This tab should give some brief info about my background.
+
+I grew up White Plains, New York, where I lived until attending college. 

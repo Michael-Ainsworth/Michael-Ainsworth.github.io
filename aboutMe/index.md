@@ -1,6 +1,6 @@
 [**Home**](http://michaelainsworth.me){:style="margin-right: 10px;"}
 |
-**About Me**
+**CV**{:style="margin-right: 10px;margin-left: 10px;"}
 |
 [**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 10px;margin-left: 10px;"}
 |
@@ -12,8 +12,5 @@
 
 ___
 
-## About Me
+## CV
 
-Hi! This tab should give some brief info about my background.
-
-I grew up White Plains, New York, where I lived until attending college. 
