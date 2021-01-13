@@ -13,8 +13,7 @@
 ___
 
 ## Work Experience
-
-___
+(\)
 
 
 #### Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)
@@ -26,7 +25,7 @@ ___
 * Project finished top 10 out of over 80 teams around nation, was presented to audience of 500 employees and interns
 
 ___
-
+(\)
 
 #### Full-Time Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2018)
 
@@ -36,7 +35,7 @@ ___
 * Presented findings to post-docs and PIs and competed in intern-wide research competition, finishing top 5
 
 ___
-
+(\)
 
 #### Summer Scholar Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2017)
 

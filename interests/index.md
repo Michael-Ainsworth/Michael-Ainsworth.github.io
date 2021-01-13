@@ -13,7 +13,7 @@
 ___
 
 ## Interests
-
+(\)
 
 I was born and raised in White Plains, New York, just about 30 minutes north of New York City.
 
@@ -23,7 +23,11 @@ Once I entered college, I had to cut down on competitive chess due to time restr
 
 Baseball is another one of my long-time interests. As a young kid, my family would often make the trip to Citi Field to watch the Mets (although, I hate to say, I am a Yankees fan at heart). My dad was always my Little League coach, and helped me develop a love for the game. I continued to play baseball through high school and college.
 
-I was fortunate to continue my baseball career at Johns Hopkins University, where I have played for the past 4 years. Hopkins baseball has had some great success, and we even made the 2019 College World Series, in Cedar Rapids, Iowa. Some images of that trip can be seen below.
+I was fortunate to continue my baseball career at Johns Hopkins University, where I have played for the past 4 years. Hopkins baseball has had some great success, and we even made the 2019 College World Series, in Cedar Rapids, Iowa. Some images can be seen below.
+
+<img align="left" width="250" height="310" src="pictures/baseball1.PNG">{:style="margin-right: 20px; margin-top: 20px;"} <img align="left" width="250" height="310" src="pictures/baseball2.PNG">{:style="margin-right: 20px; margin-top: 20px;"}
+
+
 
 Since 2016, I have lived in Baltimore, Maryland near the Johns Hopkins campus. While in Baltimore, I enjoy exploring different neighborhoods, trying new restaurants, and attending Ravens and Orioles games. I have always liked the feel of a big city, and would be open to working in new urban areas. 
 

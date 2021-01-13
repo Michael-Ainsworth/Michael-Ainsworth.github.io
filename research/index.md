@@ -13,8 +13,7 @@
 ___
 
 ## Research
-
-___
+(\)
 
 
 #### Precision Care Medicine (2020) - In Progress!
@@ -29,7 +28,7 @@ Skills involved:
 * GitHub
 
 ___
-
+(\)
 
 #### Neuro Data Design (2020) - In Progress!
 
@@ -43,7 +42,7 @@ Skills involved:
 * GitHub
 
 ___
-
+(\)
 
 #### Burke Neurological Institute (2018)
 
@@ -56,7 +55,7 @@ Skills involved:
 * Public Speaking/Presenting
 
 ___
-
+(\)
 
 #### Burke Neurological Institute (2017)
 
