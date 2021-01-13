@@ -14,7 +14,7 @@ ___
 
 ## Welcome to my Homepage!
 
-<img align="left" width="213" height="269" src="pictures/profile.JPG">{:style="margin-right: 20px; margin-top: 20px;"}
+<img align="left" width="230" height="291" src="pictures/profile.JPG">{:style="margin-right: 20px; margin-top: 20px;"}
 
 My name is Michael Ainsworth.
 
@@ -22,7 +22,7 @@ I am a graduate student currently living in Baltimore, Maryland, where I attend 
 
 I am interested in applying machine learning techniques to uncover underlying patterns in data and using my engineering background to discover real-world solutions. I have experience working on design teams and in project development environments. I am passionate about collaborating with others and applying critical thinking skills to unique problems. 
 
-(\)
+\
 
 Feel free to navigate this page to learn more about me, including my [research](http://michaelainsworth.me/research), [projects](http://michaelainsworth.me/projects), [work experience](http://michaelainsworth.me/workExperience), and [interests](http://michaelainsworth.me/interests)!
 

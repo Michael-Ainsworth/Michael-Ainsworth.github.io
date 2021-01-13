@@ -13,7 +13,7 @@
 ___
 
 ## Interests
-(\)
+\
 
 I was born and raised in White Plains, New York, just about 30 minutes north of New York City.
 
@@ -25,7 +25,7 @@ Baseball is another one of my long-time interests. As a young kid, my family wou
 
 I was fortunate to continue my baseball career at Johns Hopkins University, where I have played for the past 4 years. Hopkins baseball has had some great success, and we even made the 2019 College World Series, in Cedar Rapids, Iowa. Some images can be seen below.
 
-<img align="left" width="250" height="310" src="pictures/baseball1.PNG">{:style="margin-right: 20px; margin-top: 20px;"} <img align="left" width="250" height="310" src="pictures/baseball2.PNG">{:style="margin-right: 20px; margin-top: 20px;"}
+<img align="left" width="250" height="310" src="../pictures/baseball1.PNG">{:style="margin-right: 20px; margin-top: 20px;"} <img align="right" width="250" height="310" src="../pictures/baseball2.PNG">{:style="margin-right: 20px; margin-top: 20px;"}
 
 
 

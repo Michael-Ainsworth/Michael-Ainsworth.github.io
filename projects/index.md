@@ -13,7 +13,7 @@
 ___
 
 ## Projects
-(\)
+\
 
 #### Teleoperated Robotic Arm
 
@@ -28,7 +28,7 @@ Tools used:
 * ROS Simulation of UR5 Robot
 
 ___
-(\)
+\
 
 #### Twitter Hate Speech Detection
 
@@ -43,7 +43,7 @@ Tools used:
 * PyTorch
 
 ___
-(\)
+\
 
 #### NBA Data Mining
 
