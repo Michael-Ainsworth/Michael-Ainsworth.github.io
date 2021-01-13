@@ -13,7 +13,6 @@
 ___
 
 ## Research
-<br/>
 
 
 #### Precision Care Medicine (2020) - In Progress!
@@ -71,4 +70,6 @@ Skills involved:
 Publications:
 
 Targeted Infarction of the Internal Capsule in the Rat Using Microstimulation Guidance. Wen TC, Sindhurakar A, Ramirez VC, Park H, Gupta D, Carmel JB. Stroke. 2019 Sep;50(9):2531-2538. doi: 10.1161 STROKEAHA.119.025646. Epub 2019 Aug 8. PMID: 31390970
+
+<br/>
 

@@ -13,7 +13,7 @@
 ___
 
 ## Projects
-<br/>
+
 
 #### Teleoperated Robotic Arm
 
@@ -56,4 +56,4 @@ Tools used:
 * Scikit-learn
 * Pandas
 
-
+<br/>

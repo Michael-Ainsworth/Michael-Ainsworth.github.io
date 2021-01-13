@@ -13,7 +13,6 @@
 ___
 
 ## Work Experience
-<br/>
 
 
 #### Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)
@@ -44,3 +43,4 @@ ___
 * Prepared and presented on novel methods for internal capsule lesion quantification and qualification through histology
 * Assisted in handling, producing, and mounting of brain slices from laboratory rats for further research and data collection
 
+<br/>

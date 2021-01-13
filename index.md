@@ -24,6 +24,7 @@ I am interested in applying machine learning techniques to uncover underlying pa
 
 <br/>
 
-Feel free to navigate this page to learn more about me, including my [research](http://michaelainsworth.me/research), [projects](http://michaelainsworth.me/projects), [work experience](http://michaelainsworth.me/workExperience), and [interests](http://michaelainsworth.me/interests)!
+Feel free to navigate this page to learn more about me, including my [work experience](http://michaelainsworth.me/workExperience), [projects](http://michaelainsworth.me/projects), [research](http://michaelainsworth.me/research), and [interests](http://michaelainsworth.me/interests)!
 
 You can reach me at: michael.j.ainsworth@gmail.com
+
