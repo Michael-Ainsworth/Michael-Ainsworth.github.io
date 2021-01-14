@@ -1,4 +1,4 @@
-**Home**{:style="margin-right: 20px}
+**Home**{:style="margin-right: 20px;"}
 |
 [**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 20px;margin-left: 20px;"}
 |
