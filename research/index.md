@@ -14,13 +14,13 @@ ___
 
 #### Table of Contents
 
-[**Precision Care Medicine (2020) - In Progress!**](http://michaelainsworth.me/research#precision-care-medicine-2020---in-progress)
+* [**Precision Care Medicine (2020) - In Progress!**](http://michaelainsworth.me/research#precision-care-medicine-2020---in-progress)
 
-[**Neuro Data Design (2020) - In Progress!**](http://michaelainsworth.me/research#neuro-data-design-2020---in-progress)
+* [**Neuro Data Design (2020) - In Progress!**](http://michaelainsworth.me/research#neuro-data-design-2020---in-progress)
 
-[**Burke Neurological Institute (2018)**](http://michaelainsworth.me/research#burke-neurological-institute-2018)
+* [**Burke Neurological Institute (2018)**](http://michaelainsworth.me/research#burke-neurological-institute-2018)
 
-[**Burke Neurological Institute (2017)**](http://michaelainsworth.me/research#burke-neurological-institute-2017)
+* [**Burke Neurological Institute (2017)**](http://michaelainsworth.me/research#burke-neurological-institute-2017)
 
 ___
 <br/>

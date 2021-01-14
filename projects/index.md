@@ -14,11 +14,14 @@ ___
 
 #### Table of Contents
 
-[**Teleoperated Robotic Arm**](http://michaelainsworth.me/projects#teleoperated-robotic-arm)
+* [**Teleoperated Robotic Arm**](http://michaelainsworth.me/projects#teleoperated-robotic-arm)
 
-[**Twitter Hate Speech Detection**](http://michaelainsworth.me/projects#twitter-hate-speech-detection)
+* [**Twitter Hate Speech Detection**](http://michaelainsworth.me/projects#twitter-hate-speech-detection)
 
-[**NBA Data Mining**](http://michaelainsworth.me/projects#nba-data-mining)
+* [**NBA Data Mining**](http://michaelainsworth.me/projects#nba-data-mining)
+
+* [**EOG Wheelchair**](http://michaelainsworth.me/projects#eog-wheelchair)
+
 
 ___
 <br/>
@@ -65,3 +68,13 @@ Tools used:
 * Pandas
 
 <br/>
+
+#### EOG Wheelchair
+
+Medical Device project aimed at creating a prototype of an electric wheelchair for quadriplegic individuals. The acceleration, deceleration, and directional control were all synced to an electrooculogram (EOG) circuit. This allowed the patient full wheelchair control using only the biopotentials generated from the human eye.
+
+Tools used:
+
+* Arduino
+* Medical device circuit design
+* 3D-printing

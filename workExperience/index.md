@@ -14,11 +14,11 @@ ___
 
 #### Table of Contents
 
-[**Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)**](http://michaelainsworth.me/workExperience#machine-learning-and-software-engineering-intern---booz-allen-hamilton-summer-2019)
+* [**Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)**](http://michaelainsworth.me/workExperience#machine-learning-and-software-engineering-intern---booz-allen-hamilton-summer-2019)
 
-[**Full-Time Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2018)**](http://michaelainsworth.me/workExperience#full-time-research-intern---burke-neurological-institute-carmel-lab-summer-2018)
+* [**Full-Time Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2018)**](http://michaelainsworth.me/workExperience#full-time-research-intern---burke-neurological-institute-carmel-lab-summer-2018)
 
-[**Summer Scholar Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2017)**](http://michaelainsworth.me/workExperience#summer-scholar-research-intern---burke-neurological-institute-carmel-lab-Summer-2017)
+* [**Summer Scholar Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2017)**](http://michaelainsworth.me/workExperience#summer-scholar-research-intern---burke-neurological-institute-carmel-lab-Summer-2017)
 
 ___
 <br/>
