@@ -15,7 +15,7 @@ ___
 
 I was born and raised in White Plains, New York, just about 30 minutes north of New York City.
 
-Growing up, one of my favorite hobbies was chess. I was taught to play chess at 7 years old, and have been an avid player ever since. Throughout grade school, I travelled all over the country playing in tournaments and competing for my school. I was even nationally ranked, and earned the title of "national expert" at age 12. Some of my favorite memories include traveling to Orlando every winter for the national scholastic chess championships.
+Growing up, one of my favorite hobbies was chess. I was taught to play chess at 7 years old, and have been an avid player ever since. Throughout grade school, I traveled all over the country playing in tournaments and competing for my school. I was even nationally ranked, and earned the title of "national expert" at age 12. Some of my favorite memories include the winter trips to Orlando for the National Scholastic Chess Championships.
 
 <img align="center" width="193" height="290" src="../pictures/chess1.jpg">{:style="margin-left: 10px; margin-right: 20px; margin-top: 20px; margin-bottom: 10px;"} <img align="center" width="383" height="290" src="../pictures/chess2.jpg">{:style="margin-right: 20px; margin-top: 20px; margin-bottom: 10px;"}
 
@@ -33,7 +33,7 @@ In 2020, I completed my undergraduate degree from Johns Hopkins in Biomedical En
 
 <img align="center" width="375" height="250" src="../pictures/hopkins.jpg">{:style="margin-top: 20px; margin-left: 120px; margin-bottom: 10px;"}
 
-Some of my other hobbies include traveling, hiking, weightlifting, video games, and programming.
+Some of my other hobbies include traveling, hiking, weightlifting, video games, practicing cello, and programming.
 
 <br/>
 
