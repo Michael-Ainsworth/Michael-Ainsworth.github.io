@@ -29,7 +29,7 @@ I was fortunate to continue my baseball career at Johns Hopkins University, wher
 
 Since 2016, I have lived in Baltimore, Maryland in the Charles Village area. While in Baltimore, I enjoy exploring different neighborhoods, trying new restaurants, and attending Ravens and Orioles games. I have always liked the feel of a big city, and would be open to working in new urban areas. In 2020, I completed my undergraduate degree from Johns Hopkins in Biomedical Engineering with a minor in Mathematics. I returned to Johns Hopkins to complete my graduate degree, and I am expected to graduate in May 2021.
 
-<img align="center" width="375" height="250" src="../pictures/hopkins.PNG">{:style="margin-top: 20px; margin-bottom: 10px;"}
+<img align="center" width="375" height="250" src="../pictures/hopkins.jpg">{:style="margin-top: 20px; margin-bottom: 10px;"}
 
 Some of my other hobbies include traveling, hiking, weightlifting, video games, and programming.
 
