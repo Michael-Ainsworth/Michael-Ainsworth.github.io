@@ -1,19 +1,27 @@
-[**Home**](http://michaelainsworth.me){:style="margin-right: 10px;"}
+[**Home**](http://michaelainsworth.me){:style="margin-right: 20px;"}
 |
-[**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 10px;margin-left: 10px;"}
+[**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 20px;margin-left: 20px;"}
 |
-**Projects**{:style="margin-right: 10px;margin-left: 10px;"}
+**Projects**{:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**Research**](http://michaelainsworth.me/research){:style="margin-right: 10px;margin-left: 10px;"}
+[**Research**](http://michaelainsworth.me/research){:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**CV**](http://michaelainsworth.me/aboutMe){:style="margin-right: 10px;margin-left: 10px;"}
-|
-[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 10px;"}
+[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 20px;"}
 
 ___
 
 ## Projects
 
+#### Table of Contents
+
+[**Teleoperated Robotic Arm**](http://michaelainsworth.me/projects#teleoperated-robotic-arm)
+
+[**Twitter Hate Speech Detection**](http://michaelainsworth.me/projects#twitter-hate-speech-detection)
+
+[**NBA Data Mining**](http://michaelainsworth.me/projects#nba-data-mining)
+
+___
+<br/>
 
 #### Teleoperated Robotic Arm
 

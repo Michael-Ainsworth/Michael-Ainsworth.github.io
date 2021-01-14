@@ -1,18 +1,27 @@
-[**Home**](http://michaelainsworth.me){:style="margin-right: 10px;"}
+[**Home**](http://michaelainsworth.me){:style="margin-right: 20px;"}
 |
-**Work Experience**{:style="margin-right: 10px;margin-left: 10px;"}
+**Work Experience**{:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**Projects**](http://michaelainsworth.me/projects){:style="margin-right: 10px;margin-left: 10px;"}
+[**Projects**](http://michaelainsworth.me/projects){:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**Research**](http://michaelainsworth.me/research){:style="margin-right: 10px;margin-left: 10px;"}
+[**Research**](http://michaelainsworth.me/research){:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**CV**](http://michaelainsworth.me/aboutMe){:style="margin-right: 10px;margin-left: 10px;"}
-|
-[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 10px;"}
+[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 20px;"}
 
 ___
 
 ## Work Experience
+
+#### Table of Contents
+
+[**Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)**](http://michaelainsworth.me/workExperience#machine-learning-and-software-engineering-intern---booz-allen-hamilton-summer-2019)
+
+[**Full-Time Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2018)**](http://michaelainsworth.me/workExperience#full-time-research-intern---burke-neurological-institute-carmel-lab-summer-2018)
+
+[**Summer Scholar Research Intern - Burke Neurological Institute, Carmel Lab (Summer 2017)**](http://michaelainsworth.me/workExperience#summer-scholar-research-intern---burke-neurological-institute-carmel-lab-Summer-2017)
+
+___
+<br/>
 
 
 #### Machine Learning and Software Engineering Intern - Booz Allen Hamilton (Summer 2019)

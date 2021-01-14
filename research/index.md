@@ -1,19 +1,29 @@
-[**Home**](http://michaelainsworth.me){:style="margin-right: 10px;"}
+[**Home**](http://michaelainsworth.me){:style="margin-right: 20px;"}
 |
-[**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 10px;margin-left: 10px;"}
+[**Work Experience**](http://michaelainsworth.me/workExperience){:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**Projects**](http://michaelainsworth.me/projects){:style="margin-right: 10px;margin-left: 10px;"}
+[**Projects**](http://michaelainsworth.me/projects){:style="margin-right: 20px;margin-left: 20px;"}
 |
-**Research**{:style="margin-right: 10px;margin-left: 10px;"}
+**Research**{:style="margin-right: 20px;margin-left: 20px;"}
 |
-[**CV**](http://michaelainsworth.me/aboutMe){:style="margin-right: 10px;margin-left: 10px;"}
-|
-[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 10px;"}
+[**Interests**](http://michaelainsworth.me/interests){:style="margin-left: 20px;"}
 
 ___
 
 ## Research
 
+#### Table of Contents
+
+[**Precision Care Medicine (2020) - In Progress!**](http://michaelainsworth.me/research#precision-care-medicine-2020---in-progress)
+
+[**Neuro Data Design (2020) - In Progress!**](http://michaelainsworth.me/research#neuro-data-design-2020---in-progress)
+
+[**Burke Neurological Institute (2018)**](http://michaelainsworth.me/research#burke-neurological-institute-2018)
+
+[**Burke Neurological Institute (2017)**](http://michaelainsworth.me/research#burke-neurological-institute-2017)
+
+___
+<br/>
 
 #### Precision Care Medicine (2020) - In Progress!
 
