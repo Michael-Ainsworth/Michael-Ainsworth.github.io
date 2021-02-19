@@ -26,3 +26,5 @@ Feel free to navigate this page to learn more about me, including my [work exper
 
 You can reach me at: michael.j.ainsworth@gmail.com
 
+Find me on GitHub at: [github.com/michael-ainsworth](https://github.com/michael-ainsworth)
+
