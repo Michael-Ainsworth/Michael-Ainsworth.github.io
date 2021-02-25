@@ -28,7 +28,7 @@ ___
 
 #### Teleoperated Robotic Arm
 
-Biomedical engineering instrumentation project aimed at creating a tele-operated robotic arm for remote palpation. This project was completed in a small group under the supervision of Dr. Nitish Thakor at Johns Hopkins University. The project utilizes Madgwick sensor fusion algorithms on IMU sensors to calculate end-effector position of a UR5 robotic arm. A custom end-effector was built with 3D printing to simulate a human hand. This hand utilizes silicon lining and flexible tactile sensors to model recent soft robotic technology. In addition, thermistors were used to calculate end-effector temperature. Both pressure and temperature readings were visualized through and intuitive GUI. The user controls the robotic arm through an IMU glove that communicates with the UR5 using Bluetooth.
+Biomedical engineering instrumentation project aimed at creating a tele-operated robotic arm for remote palpation. This project was completed in a small group under the supervision of Dr. Nitish Thakor at Johns Hopkins University. The project utilizes Madgwick sensor fusion algorithms on IMU sensors to calculate end-effector position of a UR5 robotic arm. A custom end-effector was built with 3D printing to simulate a human hand. This hand utilizes silicon lining and flexible tactile sensors to model recent soft robotic technology. In addition, thermistors were used to calculate end-effector temperature. Both pressure and temperature readings were visualized through an intuitive GUI. The user controls the robotic arm through an IMU glove that communicates with the UR5 using Bluetooth.
 
 Tools used:
 

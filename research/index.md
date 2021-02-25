@@ -27,7 +27,7 @@ ___
 
 #### Precision Care Medicine (2020) - In Progress!
 
-Created machine learning models to identify hemodynamic features that can predict negative stroke outcomes using real patient data. Goal of research is to reliably flag at-risk patients using features commonly available for hospitalized stroke victims. Worked in a small team under the guidence of clinicians.
+Created machine learning models to identify hemodynamic features that can predict negative stroke outcomes using real patient data. Goal of research is to reliably flag at-risk patients using features commonly available for hospitalized stroke victims. Worked in a small team under the guidance of clinicians.
 
 Skills involved:
 
